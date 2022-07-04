@@ -1,6 +1,8 @@
 *{
     background-color: black;
     color: aliceblue;
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
 h1{
     
@@ -21,4 +23,7 @@ h3{
 .main{
     border: 2px dotted white;
 
+}
+li{
+    padding: 1rem;
 }
